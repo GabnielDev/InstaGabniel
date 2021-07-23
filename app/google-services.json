@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "599365779178",
+    "project_id": "instagabniel",
+    "storage_bucket": "instagabniel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599365779178:android:c2340b00be3bbeb919e193",
+        "android_client_info": {
+          "package_name": "com.example.instagabniel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599365779178-ptmlbgfrohhma384be10klv6m2g6t38h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.instagabniel",
+            "certificate_hash": "77d8f34c0a6175759e4daa128d566651fb0e9096"
+          }
+        },
+        {
+          "client_id": "599365779178-7sko2vlfroakodfk7722icie9tgqtjdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvPV936yH134NoPMDZfaolc-v-8BA9a24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599365779178-7sko2vlfroakodfk7722icie9tgqtjdk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
